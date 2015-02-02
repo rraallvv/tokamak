@@ -14,6 +14,8 @@
 #ifndef COLLISION_H
 #define COLLISION_H
 
+#include "scenery.h"
+
 typedef enum
 {
 	IMPULSE_IGNORE,

@@ -11,6 +11,9 @@
  *                                                                       *
  *************************************************************************/
 
+#ifndef CONSTRAINT_H
+#define CONSTRAINT_H
+
 class _neConstraint;
 class neRigidBodyBase;
 class neRigidBody_;
@@ -335,3 +338,4 @@ public:
 	void RemoveAll();
 };
 
+#endif //CONSTRAINT_H

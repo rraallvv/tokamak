@@ -23,10 +23,7 @@
 */
 
 #include "tokamak.h"
-#include "containers.h"
 #include "scenery.h"
-#include "collision.h"
-#include "constraint.h"
 #include "rigidbody.h"
 #include "scenery.h"
 #include "stack.h"

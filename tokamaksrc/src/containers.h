@@ -16,6 +16,7 @@
 
 #define _CRT_SECURE_DEPRECATE_MEMORY
 #include <memory.h>
+#include "tokamak.h"
 
 #define PLACEMENT_MAGIC \
 	public:\

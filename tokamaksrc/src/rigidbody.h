@@ -20,6 +20,10 @@
 #define MAX_RB_IMPULSE_RECORDS 4
 #define MAX_RB_CONTROLLERS 5
 
+#include "containers.h"
+#include "collision.h"
+#include "constraint.h"
+
 class neRigidBodyBase;
 
 class neRigidBody_;

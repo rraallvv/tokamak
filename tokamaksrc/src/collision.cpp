@@ -29,7 +29,6 @@
 */
 #include "tokamak.h"
 #include "containers.h"
-#include "scenery.h"
 #include "collision.h"
 #include "collision2.h"
 #include "constraint.h"
